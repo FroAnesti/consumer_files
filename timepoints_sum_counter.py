@@ -1,4 +1,4 @@
-filepath = 'killed25-600_k=5.txt'
+filepath = 'killedpulse100-300_c=5_c=3.txt'
 count=0;
 with open(filepath) as fp:
    line = fp.readline()
