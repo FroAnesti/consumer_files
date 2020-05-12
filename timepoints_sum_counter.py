@@ -1,3 +1,4 @@
+# It counts the timepoint in which each simulation was killed. #
 filepath = 'killedpulse100-300_c=5_c=3.txt'
 count=0;
 with open(filepath) as fp:
