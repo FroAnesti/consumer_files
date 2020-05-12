@@ -124,5 +124,3 @@ if args.plot:
 		fig.savefig(fig_fname)
 
 		df_time_course = pd.DataFrame()
-
-
